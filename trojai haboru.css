@@ -1,5 +1,7 @@
 body{
   color: #293647;
+  background-color: rgba(172, 168, 168, 0.445);
+  font-family: britannic;
 }
 
 .bg-fej {
@@ -30,12 +32,14 @@ body{
   margin-top: 0px;
   padding-bottom: 15px;
   background-color: #C5C599;
+  width: 600px;
 }
 
 h3{
   margin-top: 0px;
   margin: 25px 0px;
   padding-bottom: 15px;
+  padding-left: 10px;
 }
 
 a {
@@ -45,3 +49,9 @@ a {
   font-weight: bold;
   color: darkblue;
 }
+
+.img {
+  width: 300px;
+  height: 400px;
+}
+
