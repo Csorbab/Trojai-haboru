@@ -33,6 +33,7 @@ body{
   padding-bottom: 15px;
   background-color: #C5C599;
   width: 600px;
+  border: solid 4px;
 }
 
 h3{
